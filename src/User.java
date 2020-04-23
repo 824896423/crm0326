@@ -12,4 +12,5 @@ public class User {
     private String name;
     private int email;
     private int a;
+    private int b;
 }
