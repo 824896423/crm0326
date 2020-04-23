@@ -9,5 +9,6 @@
 public class User {
     private int id;
     private int phone;
+    private String name;
     private int email;
 }
