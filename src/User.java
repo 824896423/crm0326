@@ -9,4 +9,5 @@
 public class User {
     private int id;
     private int phone;
+    private int email;
 }
